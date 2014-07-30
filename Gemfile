@@ -14,6 +14,8 @@ group:production do
   gem 'rails_12factor'
 end
 
+gem "jquery-fileupload-rails"
+gem "devise"
 #Use Photo Upload
 gem 'carrierwave'
 # Use SCSS for stylesheets
